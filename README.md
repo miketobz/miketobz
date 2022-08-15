@@ -1,6 +1,6 @@
 -[![MasterHead](https://previews.123rf.com/images/pratyaksa/pratyaksa1701/pratyaksa170100107/70660351-businessman-working-and-analyzing-financial-statistics-data-analysis-concept-business-intelligence-t.jpg)
 <h1 align="center">Hi 👋, I'm Michael Tobiko</h1>
-<h3 align="center">A passionate innovator/data analyst from Kenya</h3>
+<h3 align="center">A passionate data analyst/innovator from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
 <p align="left"> <a href="https://twitter.com/michaeltobiko" target="blank"><img src="https://img.shields.io/twitter/follow/michaeltobiko?logo=twitter&style=for-the-badge" alt="michaeltobiko" /></a> </p>
