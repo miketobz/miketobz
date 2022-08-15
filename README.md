@@ -1,4 +1,4 @@
--[![MasterHead](https://cdn4.vectorstock.com/i/1000x1000/61/68/data-analysis-design-concept-vector-20636168.jpg)](https://previews.123rf.com/images/pratyaksa/pratyaksa1701/pratyaksa170100107/70660351-businessman-working-and-analyzing-financial-statistics-data-analysis-concept-business-intelligence-t.jpg)
+-[![MasterHead](https://previews.123rf.com/images/pratyaksa/pratyaksa1701/pratyaksa170100107/70660351-businessman-working-and-analyzing-financial-statistics-data-analysis-concept-business-intelligence-t.jpg)
 <h1 align="center">Hi 👋, I'm Michael Tobiko</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
