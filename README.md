@@ -1,4 +1,4 @@
--[![MasterHead](https://4-software-downloads.com/wp-content/uploads/2020/12/istock-817442226-1024x684.jpg)
+-[![MasterHead](http://careernuts.com/wp-content/uploads/2019/04/How-to-Become-a-Data-Analyst-in-india-qualifications-salary-skills.jpg)
 <h1 align="center">Hi 👋, I'm Michael Tobiko</h1>
 <h3 align="center">A passionate Data Analyst/Innovator from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
