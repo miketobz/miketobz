@@ -1,7 +1,7 @@
 -[![MasterHead](http://careernuts.com/wp-content/uploads/2019/04/How-to-Become-a-Data-Analyst-in-india-qualifications-salary-skills.jpg)
 <h1 align="center">Hi 👋, I'm Michael Tobiko</h1>
 <h3 align="center">A passionate Data Analyst/Innovator from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://sranalytics.io/wp-content/uploads/2020/11/power-bi-dashboard-gif.gif">
 
 <p align="left"> <a href="https://twitter.com/michaeltobiko" target="blank"><img src="https://img.shields.io/twitter/follow/michaeltobiko?logo=twitter&style=for-the-badge" alt="michaeltobiko" /></a> </p>
 
