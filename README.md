@@ -1,4 +1,4 @@
--[![MasterHead](https://previews.123rf.com/images/pratyaksa/pratyaksa1701/pratyaksa170100107/70660351-businessman-working-and-analyzing-financial-statistics-data-analysis-concept-business-intelligence-t.jpg)
+-[![MasterHead](https://www.pathstream.com/blog/wp-content/uploads/2022/02/Blog-Images-1.png)
 <h1 align="center">Hi 👋, I'm Michael Tobiko</h1>
 <h3 align="center">A passionate Data Analyst/Innovator from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
