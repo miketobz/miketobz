@@ -1,4 +1,4 @@
--[![MasterHead](https://www.pathstream.com/blog/wp-content/uploads/2022/02/Blog-Images-1.png)
+-[![MasterHead](https://www.betterteam.com/images/data-analyst-job-description-4088x2958-2020122.jpeg?crop=1:1,smart&width=1200&dpr=2)
 <h1 align="center">Hi 👋, I'm Michael Tobiko</h1>
 <h3 align="center">A passionate Data Analyst/Innovator from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
