@@ -1,4 +1,4 @@
--[![MasterHead](http://careernuts.com/wp-content/uploads/2019/04/How-to-Become-a-Data-Analyst-in-india-qualifications-salary-skills.jpg)
+![MasterHead](http://careernuts.com/wp-content/uploads/2019/04/How-to-Become-a-Data-Analyst-in-india-qualifications-salary-skills.jpg)
 <h1 align="center">Hi 👋, I'm Michael Tobiko</h1>
 <h3 align="center">A passionate Data Analyst/Innovator from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://sranalytics.io/wp-content/uploads/2020/11/power-bi-dashboard-gif.gif">
