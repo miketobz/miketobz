@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Data Analyst/Innovator from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://sranalytics.io/wp-content/uploads/2020/11/power-bi-dashboard-gif.gif">
 
-<p align="left"> <a href="https://twitter.com/michaeltobiko" target="blank"><img src="https://img.shields.io/twitter/follow/michaeltobiko?logo=twitter&style=for-the-badge" alt="michaeltobiko" /></a> </p>
 
 - 🌱 I’m currently learning **Python and R.**
 
