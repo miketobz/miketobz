@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **miketobiko@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/michael-tobiko-1563a693](https://www.linkedin.com/in/michael-tobiko-1563a693)
+- 📄 Know about my experiences [linkedin.com/in/michael-tobiko-1563a693](https://www.linkedin.com/in/michael-tobiko)
 
 - ⚡ Fun fact **I am charismatic** and **innovative.**
 
