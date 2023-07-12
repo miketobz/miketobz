@@ -12,12 +12,12 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/michael-tobiko-1563a693](https://www.linkedin.com/in/michael-tobiko-1563a693)
 
-- ⚡ Fun fact **I am charismatic and innovative.**
+- ⚡ Fun fact **I am charismatic** and **innovative.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MichaelTobiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michaeltobiko" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/michael-tobiko-1563a693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-tobiko-1563a693" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/michael-tobiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-tobiko-1563a693" height="30" width="40" /></a>
 <a href="https://instagram.com/michael_tobiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michael_tobiko" height="30" width="40" /></a>
 </p>
 
